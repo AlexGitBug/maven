@@ -1,0 +1,3 @@
+com\dmdev\database\dao\UserDao.class
+com\Main.class
+com\dmdev\database\entity\User.class
